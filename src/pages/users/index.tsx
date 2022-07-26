@@ -77,7 +77,7 @@ export default function UserList() {
                     </Text>
                   </Box>
                 </Td>
-                {isWideVersion && <Th>Data de cadastro</Th>}
+                {isWideVersion && <Th>04 de Abril, 2021</Th>}
                 <Td>
                   <Button
                     as="a"
